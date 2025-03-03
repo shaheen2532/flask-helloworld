@@ -12,7 +12,7 @@ This is a simple Python Flask application that returns "Hello {name}" where `{na
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/flask-hello-app.git
+   git clone https://github.com/shaheen2532/flask-helloworld.git
    cd flask-helloworld
    ```
 
